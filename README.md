@@ -28,3 +28,16 @@ Texts were vectorized using word2vec.
 **Tools and techniques:** Pandas, sklearn, numpy, NLTK, LightGBM, CatBoost, ML, cross-validation, stemming, feature engineering, word2vec, R
 
 **Project status:** Completed
+
+
+
+### 3. Car price prediction
+
+**Description of the project:** Used car sales service is developing an application to attract new customers. It will help to find out the market price of a car.
+
+**Result:** Analyzed the data: technical characteristics, configuration and car prices. Built a model in order to determine the cost of a used car.
+Used the following: numerical methods, approximate calculations, algorithm complexity estimation, gradient descent.
+
+**Tools and techniques:** Pandas, sklearn, numpy, LightGBM, CatBoost, ML
+
+**Project status:** Completed
