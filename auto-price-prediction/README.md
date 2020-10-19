@@ -1,4 +1,4 @@
-### 3. Car price prediction
+### Car price prediction
 
 **Description of the project:** Used car sales service is developing an application to attract new customers. It will help to find out the market price of a car.
 
